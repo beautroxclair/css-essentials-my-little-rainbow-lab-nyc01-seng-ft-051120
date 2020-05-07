@@ -49,8 +49,8 @@
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#red{
-  border: 20px solid #f00;
+#indigo{
+  border: 20px solid #8a2be2;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
@@ -59,7 +59,7 @@
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#red{
+#violet{
   border: 20px solid #f00;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
