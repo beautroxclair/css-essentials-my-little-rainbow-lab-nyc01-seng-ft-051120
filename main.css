@@ -10,7 +10,7 @@
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #orange{
-  border: 20px solid #f00;
+  border: 20px solid #ffa500;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
@@ -19,7 +19,7 @@
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#red{
+#yellow{
   border: 20px solid #f00;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
